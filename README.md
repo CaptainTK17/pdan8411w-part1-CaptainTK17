@@ -9,6 +9,7 @@ https://www.kaggle.com/datasets/rmisra/news-category-dataset
 Necessary features to run:
 due note current project was built using .conda(python 3.11.9) kernel
 any package install code seen in notebook must be installed in order for notebook cells to run
+dataset will have to re-downloaded(link is found in code cells) thus filepath when dataset is being might hacve to be chnaged
 
  Dataset description:
 About 210 000 news headlines from HuffPost from 2012 to 2022 are included in this collection. It can be used as a benchmark for several computational linguistic problems. This is one of the largest news databases. As of some point following this dataset's first collection in 2018, HuffPost ceased maintaining a sizable archive of news items, making it impossible to gather such a dataset today. There were around 200k headlines between 2012 and May 2018, and 10k headlines between May 2018 and 2022, because of website updates.
